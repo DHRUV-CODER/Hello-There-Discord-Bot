@@ -1,5 +1,5 @@
 # Hello There Bot
-This is a cool discord bot made with [python](https://www.python.org)
+This is a cool discord bot made with [python](https://www.python.org/)
 
 ## How To Use
 ### Invite the hosted bot
