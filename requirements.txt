@@ -1,0 +1,11 @@
+aiohttp==3.6.2
+buttons==0.1.9
+discord==1.0.1
+discord.py==1.6.0
+Django==3.1.4
+Flask==1.1.2
+numpy==1.18.5
+Pillow==8.0.1
+praw==6.5.1
+requests==2.23.0
+urllib3==1.25.8
