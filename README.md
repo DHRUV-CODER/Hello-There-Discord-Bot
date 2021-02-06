@@ -9,16 +9,16 @@ This is a cool discord bot made with [python](https://www.python.org/)
 - Ensure you have a [Discord Developer Account](https://discord.dev/)
 - Make a new application in the [Discord Developer Portal](https://discord.dev/)
 - Make a bot account for the application
-- Download the source code from [here](https://github.com/DHRUV-CODER/Latest-Discord-Bot/archive/main.zip) or by clicking the green button above
+- Download the source code from [here](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/archive/main.zip) or by clicking the green button above
 - Uncompress the downloaded file
 - Open the uncompressed folder
 - Run the command `pip install -r requirements.txt` Find It [here](https://github.com/DHRUV-CODER/Latest-Discord-Bot/blob/main/requirements.txt)
 - Copy your bot token from the [Discord Developer Portal](https://discord.dev/) and put it in a `.env` file
-- You can see an example for the `.env` file [here](https://github.com/DHRUV-CODER/Latest-Discord-Bot/blob/main/dotenv.md)
+- You can see an example for the `.env` file [here](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/dotenv.md)
 - Finally run the bot with `python main.py`  
 
 # License
-Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Latest-Discord-Bot/blob/main/LICENSE)
+Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/LICENSE)
 
 # Contributing
 Find something that is lacking? Fork the project and pull request!
