@@ -7,7 +7,7 @@ This is a cool discord bot made with [python](https://www.python.org/)
 - [Invite the bot to your server](https://discord.com/oauth2/authorize?client_id=790592850588336151&permissions=8&scope=bot)
 ### Host the bot yourself
 - Ensure you have a [Discord Developer Account](https://discord.dev/)
-- Make a new application in the [Discord Developer Portal](https://discord.dev/)
+- Make a New application in the [Discord Developer Portal](https://discord.dev/)
 - Make a bot account for the application
 - Download the source code from [here](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/archive/main.zip) or by clicking the green button above
 - Uncompress the downloaded file
