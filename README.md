@@ -1,6 +1,8 @@
 # Hello There Bot
 This is a cool discord bot made with [python](https://www.python.org/)
 
+![Discord](https://img.shields.io/discord/790595270438027295?label=Join%20Our%20Discord%20For%20More%20Support&logo=discord)
+
 ## How To Use
 ### Invite the hosted bot
 - Ensure you have a [Discord Account](https://discord.com/)
