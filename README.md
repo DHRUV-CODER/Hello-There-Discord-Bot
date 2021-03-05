@@ -19,8 +19,8 @@ This is a cool discord bot made with [python](https://www.python.org/)
 
 ### Got Doubts , Join Us We will help you solve it
 </p>
-<p align="center">
-  <a href="https://discord.gg/wCbKBZF9cV">
+<p align="left">
+  <a href="https://discord.gg/j2NeBaCWYy">
     <img src="https://img.shields.io/discord/790595270438027295?style=for-the-badge" alt="discord - users online" />
   </a>
 </p>
