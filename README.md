@@ -26,7 +26,8 @@ This is a cool discord bot made with [python](https://www.python.org/)
 </p>
 
 # License
-Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/LICENSE)![GitHub](https://img.shields.io/github/license/DHRUV-CODER/Hello-There-Discord-Bot)
+Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/LICENSE)
+![GitHub](https://img.shields.io/github/license/DHRUV-CODER/Hello-There-Discord-Bot)
 
 # Contributing
 Find something that is lacking? Fork the project and pull request!
