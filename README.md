@@ -18,7 +18,12 @@ This is a cool discord bot made with [python](https://www.python.org/)
 - Finally run the bot with `python main.py`  
 
 ### Got Doubts , Join Us We will help you solve it
-![Discord](https://img.shields.io/discord/790595270438027295)
+</p>
+<p align="center">
+  <a href="https://discord.gg/wCbKBZF9cV">
+    <img src="https://img.shields.io/discord/790595270438027295?style=for-the-badge" alt="discord - users online" />
+  </a>
+</p>
 
 # License
 Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/LICENSE)
