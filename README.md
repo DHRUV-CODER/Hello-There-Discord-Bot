@@ -1,8 +1,6 @@
 # Hello There Bot
 This is a cool discord bot made with [python](https://www.python.org/)
 
-![Discord](https://img.shields.io/discord/790595270438027295?label=Join%20Our%20Discord%20For%20More%20Support&logo=discord)
-
 ## How To Use
 ### Invite the hosted bot
 - Ensure you have a [Discord Account](https://discord.com/)
@@ -19,8 +17,12 @@ This is a cool discord bot made with [python](https://www.python.org/)
 - You can see an example for the `.env` file [here](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/dotenv.md)
 - Finally run the bot with `python main.py`  
 
+### Got Doubts , Join Us We will help you solve it
+![Discord](https://img.shields.io/discord/790595270438027295)
+
 # License
 Hello There Bot is licensed under the [MIT License](https://github.com/DHRUV-CODER/Hello-There-Discord-Bot/blob/main/LICENSE)
 
 # Contributing
 Find something that is lacking? Fork the project and pull request!
+
